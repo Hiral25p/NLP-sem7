@@ -54,6 +54,11 @@ pip install -r requirements.txt
    ```sh
    streamlit run app.py
    ```
+   Or
+    ```sh
+   python -m streamlit run app.py
+   ```
+    
 ## Usage
 
 - Upload your document files (e.g., PDFs, Word documents) through the provided interface for processing.
