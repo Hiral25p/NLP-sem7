@@ -61,8 +61,16 @@ pip install -r requirements.txt
     
 ## Usage
 
+![image](https://github.com/user-attachments/assets/7f13384e-0617-4dec-b624-a8d0a0a58cc5)
+
 - Upload your document files (e.g., PDFs, Word documents) through the provided interface for processing.
+
+![image](https://github.com/user-attachments/assets/613cc711-922b-44ad-b4b2-75e139d2b4b7)
+  
 - Wait for the application to finish analyzing your resume.
+
+![image](https://github.com/user-attachments/assets/6f838109-c5aa-4624-9c06-3d488f2b3e03)
+
 - Once the analysis is complete, the application will provide a final output indicating which position the resume is most suited for.
 
 ## File Structure
